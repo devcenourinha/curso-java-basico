@@ -9,3 +9,5 @@ que dificiiiil
 Agora peguei o jeito vai de primeira, depois de 1 hora apanhando
 
 amanhecer
+
+O dia esta ensolarado
