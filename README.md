@@ -6,3 +6,4 @@ Primeiro bug resolvido e ja apareceu outro
 Consegui commitar pelo Git bash porem agora vou tentar direto pelo vscode, espero que de certo
 Não estou conseguindo direto perlo vscode porem consigo pela interface do gitbash
 que dificiiiil
+Agora peguei o jeito vai de primeira, depois de 1 hora apanhando
