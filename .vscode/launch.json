@@ -1,0 +1,55 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.gabriel.primeirasemana.AboutMe",
+            "projectName": "curso-java-basico_279f8fbb"
+            "args": [
+                "Gabriel"
+                "Bueno"
+                "21"
+                "1.75"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.gabriel.primeirasemana.MinhaClasse",
+            "projectName": "curso-java-basico_279f8fbb"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "edu.gabriel.primeirasemana.Operadores",
+            "projectName": "curso-java-basico_279f8fbb"
+        },
+        {
+            "type": "java",
+            "name": "Ternario",
+            "request": "launch",
+            "mainClass": "edu.gabriel.primeirasemana.Ternario",
+            "projectName": "curso-java-basico_279f8fbb"
+        },
+        {
+            "type": "java",
+            "name": "OutraClasse",
+            "request": "launch",
+            "mainClass": "edu.gabriel.segundasemana.OutraClasse",
+            "projectName": "curso-java-basico_279f8fbb"
+        }
+    ]
+}
